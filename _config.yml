@@ -34,4 +34,3 @@ description:
     • Programming Language: Python, R
     • Libraries: dplyr, ggplot2, caret
     • Dataset: Super Bowl dataset from Kaggle
-remote_theme: pages-themes/minimal@v0.2.0
