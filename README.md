@@ -1,5 +1,6 @@
 ## Education 
 Major: Data Science 
+
 Iowa State University: Augsut 2020 - Present 
 
 ## Coursework 
