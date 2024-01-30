@@ -12,7 +12,7 @@ Iowa State University: Augsut 2020 - Present
 * Explored ethical considerations in data analysis, addressing biases in datasets.  
   
   Statistical Methods in Data  Science:
-  * Applied statistical methods to analyze and interpret data. 
+* Applied statistical methods to analyze and interpret data. 
 * Explored hypothesis testing, regression analysis, and probability distributions. 
   
   Database Systems: 
