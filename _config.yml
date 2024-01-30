@@ -2,7 +2,6 @@ title: Alexis Maldonado
 logo: /chicago_photo.jpg
 description: 
  "Email : ahm@iastate.edu"
-remote_theme: pages-themes/minimal@v0.2.0
 
 ## Education
     Major: Data Science
@@ -35,3 +34,4 @@ remote_theme: pages-themes/minimal@v0.2.0
     • Programming Language: Python, R
     • Libraries: dplyr, ggplot2, caret
     • Dataset: Super Bowl dataset from Kaggle
+remote_theme: pages-themes/minimal@v0.2.0
