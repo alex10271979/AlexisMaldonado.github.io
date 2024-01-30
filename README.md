@@ -20,10 +20,10 @@ Iowa State University: Augsut 2020 - Present
 * Explored techniques for efficient data retrieval and management. 
     
 ## Project Super Bowl Winner Prediction 
-  Goals: 
+Goals: 
 * Predict the outcome of Super Bowl games based on historical data. 
 * Predict the outcome of Super Bowl games based on historical data. 
-  
-  Tools Used: 
+
+Tools Used: 
 * Programming Language: Python, R  
 * Libraries: dplyr, ggplot2, caret • Dataset: Super Bowl dataset from Kaggle
