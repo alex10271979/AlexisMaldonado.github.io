@@ -2,7 +2,7 @@ title: Alexis Maldonado
 logo: 
 description: 
  "Email : ahm@iastate.edu"
-
+description: "
 ## Education
     Major: Data Science
     Iowa State University: Augsut 2020 - Present
@@ -34,3 +34,4 @@ description:
     • Programming Language: Python, R
     • Libraries: dplyr, ggplot2, caret
     • Dataset: Super Bowl dataset from Kaggle
+"
