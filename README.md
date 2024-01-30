@@ -5,7 +5,7 @@ Iowa State University: Augsut 2020 - Present
 ## Coursework 
   Programming for Data Science: 
 - Developed proficiency in programming languages such as Python and R. 
-+ Implemented algorithms and scripts for data manipulation and analysis. 
+- Implemented algorithms and scripts for data manipulation and analysis. 
     
   Data Analysis and Visualization: 
 * Explored techniques for cleaning and preparing raw data for analysis. 
