@@ -22,10 +22,14 @@
 
 
 ## Project
+    DS 201
     Super Bowl Winner Prediction
     Goals:
     • Predict the outcome of Super Bowl games based on historical data.
-    • Predict the outcome of Super Bowl games based on historical data. Tools Used:
-    • Programming Language: Python, R
-    • Libraries: dplyr, ggplot2, caret
+    Tools Used:
+    • Programming Language: Python
     • Dataset: Super Bowl dataset from Kaggle
+
+
+## Leadership & Involvement
+    C group leader - The Salt Company | Augsut 2022 - Present
