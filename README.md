@@ -30,8 +30,8 @@ January 2024 - Present
  - Developed an Auto Regressive Logistic Regression model to optimize police resource allocation in Cerro Gordo County.
 - Conducted exploratory data analysis (EDA) to visualize time series data and identify key predictors.
 - Created and validated an Auto Regressive Logistic Regression model to predict the timing and location of service calls.
- -Presented findings to stakeholders, contributing to more efficient allocation of police resources.
- R, dplyr, RTseries, tidyverse, caret
+ - Presented findings to stakeholders, contributing to more efficient allocation of police resources.
+ - R, dplyr, RTseries, tidyverse, caret
 
 ### Data Analyst
 - Analyzed emergency call data for Cedar Rapids using R, identifying local hotspots and trends.
