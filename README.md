@@ -1,7 +1,6 @@
 # Data Analyst
 
 ## Education 
-Education
 Iowa State University B.S. in Data Science | August 2020 - May 2024
 * Programming for Data Science, Data Analysis and Visualization, Statistical Methods in Data Science, Database Systems
 * Python, R, Java, SQL, Statistical Analysis
@@ -33,6 +32,7 @@ January 2024 - Present
 - Created and validated an Auto Regressive Logistic Regression model to predict the timing and location of service calls.
  -Presented findings to stakeholders, contributing to more efficient allocation of police resources.
  R, dplyr, RTseries, tidyverse, caret
+
 ### Data Analyst
 - Analyzed emergency call data for Cedar Rapids using R, identifying local hotspots and trends.
 - Created heat maps and block grids to represent spatial patterns in emergency calls, facilitating better resource distribution.
@@ -40,6 +40,7 @@ January 2024 - Present
 dynamically displayed.
 -  Worked closely with stakeholders to understand requirements and deliver actionable 
 insights.
+
 ## Skills
 -  Python, R, Java
 -  Proficient in statistical methods, including hypothesis testing, regression analysis, and 
@@ -47,10 +48,12 @@ probability distributions.
 -  Experienced in creating visualizations using R and Python libraries.
 -  Skilled in SQL for designing and managing relational databases.
 -  Expertise in heat mapping and spatial data analysis.
+-  
 ###  Projects & Contributions
 -  Successfully developed a model predicting service call patterns, directly influencing 
 resource deployment strategies in Cerro Gordo County.
 -  Improved the understanding of spatial emergency call patterns, leading to more informed
 decision-making in Cedar Rapids.
+
 ### Certifications & Professional Development
 -  ArcGIS Mapping– Esri, [2024]
