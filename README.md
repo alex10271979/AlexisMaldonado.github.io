@@ -17,9 +17,9 @@ Iowa State University B.S. in Data Science | August 2020 - May 2024
   
   Statistical Methods in Data  Science:
 * Applied statistical methods to analyze and interpret data. 
-* Explored hypothesis testing, regression analysis, and probability distributions. 
-  
-  Database Systems: 
+* Explored hypothesis testing, regression analysis, and probability distributions.
+
+   Database Systems: 
 * Designed and implemented relational databases using SQL. 
 * Explored techniques for efficient data retrieval and management. 
     
