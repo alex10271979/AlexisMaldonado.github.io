@@ -48,7 +48,7 @@ probability distributions.
 -  Experienced in creating visualizations using R and Python libraries.
 -  Skilled in SQL for designing and managing relational databases.
 -  Expertise in heat mapping and spatial data analysis.
--  
+
 ###  Projects & Contributions
 -  Successfully developed a model predicting service call patterns, directly influencing 
 resource deployment strategies in Cerro Gordo County.
